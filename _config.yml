@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrea Courtney, PhD"
+title                    : "Andrea Courtney"
 title_separator          : "-"
-name                     : &name "Andrea Courtney, PhD"
+name                     : &name "Andrea Courtney"
 description              : &description "Postdoctoral Scholar in Social Neuroscience at Stanford University"
 url                      : https://andreacourtney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
