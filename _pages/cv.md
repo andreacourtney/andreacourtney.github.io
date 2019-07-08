@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University |<br> Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<small><small><br>"
+title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University |<br> Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<br>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -45,7 +45,7 @@ Publications
 * **Courtney, A.L.**, Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts college drinking. _Journal of Studies on Alcohol and Drugs_. **Top cited 2018**.
 * **Courtney, A.L.**, Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses are Behaviorally Relevant. _Journal of Studies on Alcohol and Drugs_.
 * Powers, K.E., **Worsham, A.L.**, Freeman, J.B., Wheatley, T., Heatherton, T.F. (2014). Social connection modulates perception of animacy. _Psychological Science_.
-<br><em>formerly Andrea L. Worsham</em>
+<br><br><em>formerly Andrea L. Worsham</em>
   
 Presentations
 ======
