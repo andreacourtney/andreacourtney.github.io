@@ -49,13 +49,13 @@ Publications
   
 Presentations
 ======
-* **Conference Presentations**
+**Conference Presentations**
 
 * **Talks**
-2016	“Neural markers of self-regulation and its depletion.” Talk presented at the North Carolina Cognition Conference, Wake Forest University, Winston-Salem, NC.
+<br>2016	“Neural markers of self-regulation and its depletion.” Talk presented at the North Carolina Cognition Conference, Wake Forest University, Winston-Salem, NC.
 
 * **Poster Presentations**
-2018	Courtney, A.L. & Meyer, M.L. (June 2018). Representational Similarity of Self and Others in Medial Prefrontal Cortex Reflects Social Closeness. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Singapore.<br><br>
+<br>2018	Courtney, A.L. & Meyer, M.L. (June 2018). Representational Similarity of Self and Others in Medial Prefrontal Cortex Reflects Social Closeness. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Singapore.<br><br>
 2018	Courtney, A.L. & Meyer, M.L. (May 2018). Social Closeness Modulates Representational Similarity Between the Self and Others in the Medial Prefrontal Cortex. Poster presented at the Annual Meeting of the Social and Affective Neuroscience Society, Brooklyn, NY.<br><br>
 2017 	Courtney, A.L., PeConga, E.K., Rapuano, K.M., Heatherton, T.F., & Kelley, W.M. (November 2017). Calorie information modulates reward and control activation in response to food images. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.<br><br>
 2016	Courtney, A.L., Heatherton, T.F., Kelley, W.M. (November 2016). Self-regulatory depletion increases liking but attenuates social processing for extraverts. Poster presented at the Annual Meeting of the Society for Social Neuroscience, San Diego, CA.<br><br>
@@ -64,10 +64,10 @@ Presentations
 2014	Worsham, A.L., Rapuano, K.M., Kelley, W.M., Sargent, J.D., & Heatherton, T.F. Brain activation in response to alcohol advertisements predicts drinking behavior. (April 2014). Poster presented at 7th Annual Integrative Biology Symposium, Dartmouth College, Hanover, NH <br><br>
 2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. (November 2011). Cognitive Interventions and Variability in Older Adults: Relationships with Training Success and Neural Network Metrics. Poster presented at 52nd Annual Psychonomic Society Conference, Seattle, WA.<br><br>
 
-* **Departmental Presentations**
+**Departmental Presentations**
 
 * **Talks**
-2018	“Social closeness blurs the neural representation of the self and others”, Affective Science Seminar, Stanford University, Stanford, CA.<br><br>
+<br>2018	“Social closeness blurs the neural representation of the self and others”, Affective Science Seminar, Stanford University, Stanford, CA.<br><br>
 2018	“Social Closeness Modulates the Neural Representation and Perception of the Self and Others”, Dissertation, Dartmouth College, Hanover, NH.<br><br>
 2018	“Representational similarity of self and others in MPFC reflects social closeness” Talk presented at the Prospective Weekend Data Blitz, Dartmouth College, Hanover, NH.<br><br>
 2017	“Does social connection modulate the representation of self and close others?” Talk presented at the Social Area Labs Meeting, Dartmouth College, Hanover, NH.<br><br>
@@ -75,7 +75,7 @@ Presentations
 2014	“Does social context influence the reward value of appetitive stimuli?” Talk presented at the Social and Behavioral Workshop, Dartmouth College, Hanover, NH<br><br>
 
 * **Poster Presentations**
-2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. Cognitive training and cognitive variability in older adults: Preliminary behavioral and neural findings. (April 2011) Poster presented at Wake Forest Psychology Graduate Colloquium, Winston-Salem, NC.<br><br>
+<br>2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. Cognitive training and cognitive variability in older adults: Preliminary behavioral and neural findings. (April 2011) Poster presented at Wake Forest Psychology Graduate Colloquium, Winston-Salem, NC.<br><br>
 2009	Worsham, A.L., Jennings, J.M., & Dagenbach, D. The Effectiveness of Recollection Training in Decreasing Cognitive Variability in Older Adults. (August 2009). Poster presented at Wake Forest Undergraduate Research Day, Winston-Salem, NC.
 
   
