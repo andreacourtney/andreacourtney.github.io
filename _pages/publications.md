@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 **Courtney, A.L.**, Casey, B.J., Rapuano, K.M. (forthcoming). A neurobiological model of alcohol marketing effects on underage drinking. Journal of Studies on Alcohol and Drugs.<br><br>
 Lopez, R.B.\*, **Courtney, A.L.**\*, Wagner, D.D. (2019). Recruitment of cognitive control regions during effortful self-control is associated with altered brain activity in control and reward systems in dieters during subsequent exposure to food commercials. PeerJ–Brain and Cognition.<br><br>
 **Courtney, A.L.**, PeConga, E.K., Wagner, D.D., Rapuano, K.M. (2018). Calorie information and dieting status modulate reward and control activation during the evaluation of food images. PLoS One.<br><br>
