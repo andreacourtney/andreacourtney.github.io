@@ -22,5 +22,5 @@ Lopez, R.B.\*, **Courtney, A.L.**\*, Wagner, D.D. (2019). Recruitment of cogniti
 **Courtney, A.L.**, Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses are Behaviorally Relevant. Journal of Studies on Alcohol and Drugs.<br><br>
 Powers, K.E., **Worsham, A.L.**, Freeman, J.B., Wheatley, T., Heatherton, T.F. (2014). Social connection modulates perception of animacy. Psychological Science.<br><br><br>
 
-\* These authors contributed equally to this work.<br><br>
-<em>formerly Andrea L. Worsham</em>
+\* These authors contributed equally to this work.<br>
+<em>Note: formerly Andrea L. Worsham</em>
