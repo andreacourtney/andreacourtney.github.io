@@ -97,14 +97,14 @@ Workshops and Professional Development
 Teaching
 ======
 **<em>Dartmouth College</em>**
-	* Graduate Ethics Course, Facilitator (Fall 2017), Supervising staff: Kerry Landers
-	* New TA Orientation, Facilitator (Winter 2015 & Winter 2016), Dartmouth Center for the Advancement of Learning, Supervising staff: Cindy Tobery
-	* Systems Neuroscience with Laboratory, Lab Instructor (Fall 2013, Fall 2014, Spring 2015), Supervising faculty: Jeff Taube, Robert Maue, Kyle Smith
-	* Experimental Design, Methodology and Data Analysis Procedures, Teaching Assistant and Guest Lecturer, (Spring 2014), Supervising faculty: John Pfister
-	* Statistics Summer Seminar for Humanities Faculty, Unit instructor and Statistics Consultant (Summer 2014), Supervising faculty: John Pfister & Christiane Donahue. 
+* Graduate Ethics Course, Facilitator (Fall 2017), Supervising staff: Kerry Landers
+* New TA Orientation, Facilitator (Winter 2015 & Winter 2016), Dartmouth Center for the Advancement of Learning, Supervising staff: Cindy Tobery
+* Systems Neuroscience with Laboratory, Lab Instructor (Fall 2013, Fall 2014, Spring 2015), Supervising faculty: Jeff Taube, Robert Maue, Kyle Smith
+* Experimental Design, Methodology and Data Analysis Procedures, Teaching Assistant and Guest Lecturer, (Spring 2014), Supervising faculty: John Pfister
+* Statistics Summer Seminar for Humanities Faculty, Unit instructor and Statistics Consultant (Summer 2014), Supervising faculty: John Pfister & Christiane Donahue. 
 
 **<em>Wake Forest University</em>**
-	* Research Methods and Statistics II, Lab Instructor (Fall 2010, Spring 2011, Fall 2011, Spring 2012), Supervising faculty: Eric Stone & Wayne Pratt
+* Research Methods and Statistics II, Lab Instructor (Fall 2010, Spring 2011, Fall 2011, Spring 2012), Supervising faculty: Eric Stone & Wayne Pratt
   
 Service and Leadership
 ======
