@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University |<br> Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<br></small></small>"
+title: "Andrea Courtney<small><small></strong><br>acourtne@stanford.edu | Stanford University |<br> Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<br></small></small>"
 permalink: /cv/
 author_profile: true
 redirect_from:
