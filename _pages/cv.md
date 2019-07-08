@@ -41,13 +41,14 @@ Fellowships and Awards
   
 Publications
 ======
-* Courtney, A.L., Casey, B.J., Rapuano, K.M. (forthcoming). A neurobiological model of alcohol marketing effects on underage drinking. Journal of Studies on Alcohol and Drugs.
-* Lopez, R.B.*, Courtney, A.L.*, Wagner, D.D. (2019). Recruitment of cognitive control regions during effortful self-control is associated with altered brain activity in control and reward systems in dieters during subsequent exposure to food commercials. PeerJ–Brain and Cognition.
-* Courtney, A.L., PeConga, E.K., Wagner, D.D., Rapuano, K.M. (2018). Calorie information and dieting status modulate reward and control activation during the evaluation of food images. PLoS One.
-* Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts college drinking. Journal of Studies on Alcohol and Drugs. Top cited 2018.
-* Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses are Behaviorally Relevant. Journal of Studies on Alcohol and Drugs.
-* Powers, K.E., *Worsham, A.L., Freeman, J.B., Wheatley, T., Heatherton, T.F. (2014). Social connection modulates perception of animacy. Psychological Science.
+* **Courtney, A.L.**, Casey, B.J., Rapuano, K.M. (forthcoming). A neurobiological model of alcohol marketing effects on underage drinking. _Journal of Studies on Alcohol and Drugs_.
+* Lopez, R.B., **Courtney, A.L.**, Wagner, D.D. (2019). Recruitment of cognitive control regions during effortful self-control is associated with altered brain activity in control and reward systems in dieters during subsequent exposure to food commercials. _PeerJ–Brain and Cognition_.
+* **Courtney, A.L.**, PeConga, E.K., Wagner, D.D., Rapuano, K.M. (2018). Calorie information and dieting status modulate reward and control activation during the evaluation of food images. _PLoS One_.
+* **Courtney, A.L.**, Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts college drinking. _Journal of Studies on Alcohol and Drugs_. **Top cited 2018**.
+* **Courtney, A.L.**, Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses are Behaviorally Relevant. _Journal of Studies on Alcohol and Drugs_.
+* Powers, K.E., **Worsham, A.L.**, Freeman, J.B., Wheatley, T., Heatherton, T.F. (2014). Social connection modulates perception of animacy. _Psychological Science_.
 
+<br><em>formerly Andrea L. Worsham</em>
   
 Presentations
 ======
