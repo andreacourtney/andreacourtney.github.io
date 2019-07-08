@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Andrea Courtney, PhD"
 title_separator          : "-"
-name                     : &name "Andrea Courtney"
-description              : &description "Postdoctoral Scholar at Stanford University"
+name                     : &name "Andrea Courtney, PhD"
+description              : &description "Postdoctoral Scholar in Social Neuroscience at Stanford University"
 url                      : https://andreacourtney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreacourtney/andreacourtney.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrea Courtney, PhD"
+  name             : "Andrea Courtney"
   avatar           : "AndreaCourtney.jpeg"
-  bio              : "Postdoctoral Scholar in Social Neuroscience"
+  bio              : "Postdoctoral Scholar at Stanford University"
   location         : "Stanford, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
