@@ -114,4 +114,4 @@ Service and Leadership
 * Departmental Representative to the Graduate Student Council (2012 - 2014)
 * Ad Hoc Reviewer: 
 	* Emotion
-	*Experimental and Clinical Psychopharmacology
+	* Experimental and Clinical Psychopharmacology
