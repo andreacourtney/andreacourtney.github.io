@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University |<br> Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<br>"
+title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University |<br> Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<br></small></small>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Education and Training
 ======
-* Postdoctoral Scholar, Stanford University (2018 - present)<small><br>Postdoc Advisor: Jamil Zaki<br>
+* Postdoctoral Scholar, Stanford University (2018 - present)<small><br>Postdoc Advisor: Jamil Zaki<br></small>
 * Ph.D. Psychological and Brain Sciences, Dartmouth College (2018)<small><br>Dissertation Advisor: Meghan Meyer<br>
   Dissertation title: Social Closeness Modulates the Neural Representation and Perception of the Self and Others
-* M.A. Psychology, Wake Forest University (2012)<small><br>Thesis Advisor: Janine Jennings<br>				       
-* B.A. Psychology and Spanish, Wake Forest University (2010)<small><br><em>Summa Cum Laude<br></em>	
+* M.A. Psychology, Wake Forest University (2012)<small><br>Thesis Advisor: Janine Jennings<br></small>			       
+* B.A. Psychology and Spanish, Wake Forest University (2010)<small><br><em>Summa Cum Laude<br></em></small>
 
 Fellowships and Awards
 ======
