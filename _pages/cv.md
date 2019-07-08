@@ -1,10 +1,6 @@
 ---
 layout: archive
-title: "Andrea Courtney
-acourtne@stanford.edu |
-Stanford University | Department of Psychology
-Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305
-"
+title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University | Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<small><small>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,39 +11,33 @@ redirect_from:
 
 Education and Training
 ======
-* Postdoctoral Scholar, Stanford University (2018 - present)
-  Postdoc Advisor: Jamil Zaki
+* Postdoctoral Scholar, Stanford University (2018 - present)<small><small><br>Postdoc Advisor: Jamil Zaki<br>
 
-* Ph.D. Psychological and Brain Sciences, Dartmouth College (2018)
-  Dissertation Advisor: Meghan Meyer
-  Dissertation title: Social Closeness Modulates the Neural Representation and Perception of the Self and Others
+* Ph.D. Psychological and Brain Sciences, Dartmouth College (2018)<small><small><br>Dissertation Advisor: Meghan Meyer<br>
+  Dissertation title: Social Closeness Modulates the Neural Representation and Perception of the Self and Others<small><small>
 
-* M.A. Psychology, Wake Forest University (2012)
-  Thesis Advisor: Janine Jennings					       
-
-* B.A. Psychology and Spanish, Wake Forest University (2010)
-  Summa Cum Laude	
+* M.A. Psychology, Wake Forest University (2012)<small><small><br>Thesis Advisor: Janine Jennings<br>				       
+* B.A. Psychology and Spanish, Wake Forest University (2010)<small><small><br><em>Summa Cum Laude<br></em>	
 
 Fellowships and Awards
 ======
 * **Fellowships**
-  * 2017 - 2018 NIH Predoctoral Ruth L. Kirschstein National Research Service Award
-  * 2015 Nominated member of AAAS/Science Program for Excellence in Science	
-  * 2012 Fulbright Research Grant Finalist		
-  * 2009 Wake Forest University Summer Research Fellow
+  * NIH Predoctoral Ruth L. Kirschstein National Research Service Award (2017 - 2018)
+  * Nominated member of AAAS/Science Program for Excellence in Science (2015)	
+  * Fulbright Research Grant Finalist (2012)
+  * Wake Forest University Summer Research Fellow (2009)
 
 * **Awards**
-  * 2015 Marie A. Center 1982 Award for Excellence in Teaching, Psychological and Brain Sciences Department, Dartmouth College
-  * 2012 Departmental nominee for Gordon A. Melson Outstanding Master’s Student Award, Psychology Department, Wake Forest University
+  * Marie A. Center 1982 Award for Excellence in Teaching, Psychological and Brain Sciences Department, Dartmouth College (2015)
+  * Departmental nominee for Gordon A. Melson Outstanding Master’s Student Award, Psychology Department, Wake Forest University (2012)
 
 * **Travel Awards**	
-  * 2018 Graduate Studies Travel Award, Dartmouth College
-  * 2016 Departmental Travel Grant, Psychological and Brain Sciences Department, Dartmouth College	
-  * 2016 NSF Travel Award to Society for Social Neuroscience
-  * 2016 Graduate Student Council Travel Grant, Dartmouth College	
-  * 2016 Departmental Travel Grant, Psychological and Brain Sciences Department, Dartmouth College
-  * 2013 Travel Grant for NIH-funded fMRI Training Workshop, University of Michigan
-
+  * Graduate Studies Travel Award, Dartmouth College (2018)
+  * Departmental Travel Grant, Psychological and Brain Sciences Department, Dartmouth College (2016)	
+  * NSF Travel Award to Society for Social Neuroscience (2016)
+  * Graduate Student Council Travel Grant, Dartmouth College (2016)	
+  * Departmental Travel Grant, Psychological and Brain Sciences Department, Dartmouth College (2016)
+  * Travel Grant for NIH-funded fMRI Training Workshop, University of Michigan (2013)
   
 Publications
 ======
@@ -58,17 +48,38 @@ Publications
 * Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses are Behaviorally Relevant. Journal of Studies on Alcohol and Drugs.
 * Powers, K.E., *Worsham, A.L., Freeman, J.B., Wheatley, T., Heatherton, T.F. (2014). Social connection modulates perception of animacy. Psychological Science.
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Presentations
 ======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
+* **Conference Presentations**
+
+* **Talks**
+2016	“Neural markers of self-regulation and its depletion.” Talk presented at the North Carolina Cognition Conference, Wake Forest University, Winston-Salem, NC.
+
+* **Poster Presentations**
+2018	Courtney, A.L. & Meyer, M.L. (June 2018). Representational Similarity of Self and Others in Medial Prefrontal Cortex Reflects Social Closeness. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Singapore.
+2018	Courtney, A.L. & Meyer, M.L. (May 2018). Social Closeness Modulates Representational Similarity Between the Self and Others in the Medial Prefrontal Cortex. Poster presented at the Annual Meeting of the Social and Affective Neuroscience Society, Brooklyn, NY.
+2017 	Courtney, A.L., PeConga, E.K., Rapuano, K.M., Heatherton, T.F., & Kelley, W.M. (November 2017). Calorie information modulates reward and control activation in response to food images. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.
+2016	Courtney, A.L., Heatherton, T.F., Kelley, W.M. (November 2016). Self-regulatory depletion increases liking but attenuates social processing for extraverts. Poster presented at the Annual Meeting of the Society for Social Neuroscience, San Diego, CA.
+2016	Worsham Courtney, A.L., Heatherton, T.F., & Kelley, W.M. Self-regulatory depletion enhances social reward for extraverts. (January 2016). Poster presented at the Annual Convention of the Society for Personality and Social Psychology, San Diego, CA.
+2015	Worsham Courtney, A.L., Rapuano, K.M., Sargent, J.D., Kelley, W.M., & Heatherton, T.F.  Reward activation elicited by alcohol advertisements predicts real-world drinking behavior. (April 2015). Poster presented at Social and Affective Neuroscience Society Conference, Boston, MA.
+2014	Worsham, A.L., Rapuano, K.M., Kelley, W.M., Sargent, J.D., & Heatherton, T.F. Brain activation in response to alcohol advertisements predicts drinking behavior. (April 2014). Poster presented at 7th Annual Integrative Biology Symposium, Dartmouth College, Hanover, NH 
+2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. (November 2011). Cognitive Interventions and Variability in Older Adults: Relationships with Training Success and Neural Network Metrics. Poster presented at 52nd Annual Psychonomic Society Conference, Seattle, WA.
+
+* **Departmental Presentations**
+
+* **Talks**
+2018	“Social closeness blurs the neural representation of the self and others”, Affective Science Seminar, Stanford University, Stanford, CA.
+2018	“Social Closeness Modulates the Neural Representation and Perception of the Self and Others”, Dissertation, Dartmouth College, Hanover, NH.
+2018	“Representational similarity of self and others in MPFC reflects social closeness” Talk presented at the Prospective Weekend Data Blitz, Dartmouth College, Hanover, NH.
+2017	“Does social connection modulate the representation of self and close others?” Talk presented at the Social Area Labs Meeting, Dartmouth College, Hanover, NH.
+2016	“Self-regulatory depletion targets cognitive control networks.” Talk presented at the Social Brain Sciences Data Blitz, Dartmouth College, Hanover, NH.
+2014	“Does social context influence the reward value of appetitive stimuli?” Talk presented at the Social and Behavioral Workshop, Dartmouth College, Hanover, NH
+
+* **Poster Presentations**
+2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. Cognitive training and cognitive variability in older adults: Preliminary behavioral and neural findings. (April 2011) Poster presented at Wake Forest Psychology Graduate Colloquium, Winston-Salem, NC.
+2009	Worsham, A.L., Jennings, J.M., & Dagenbach, D. The Effectiveness of Recollection Training in Decreasing Cognitive Variability in Older Adults. (August 2009). Poster presented at Wake Forest Undergraduate Research Day, Winston-Salem, NC.
+
   
 Workshops and Professional Development
 ======
@@ -87,10 +98,6 @@ Workshops and Professional Development
   
 Teaching
 ======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
 * **Dartmouth College**
 	* Graduate Ethics Course, Facilitator (Fall 2017), Supervising staff: Kerry Landers
 	* New TA Orientation, Facilitator (Winter 2015 & Winter 2016), Dartmouth Center for the Advancement of Learning, Supervising staff: Cindy Tobery
