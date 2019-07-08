@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University | Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305<small><small>"
+title: "Andrea Courtney<small><small><br>acourtne@stanford.edu | Stanford University |<br> Department of Psychology, Jordan Hall, 450 Serra Mall (Building 420) | Stanford, CA 94305"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 Education and Training
 ======
-* Postdoctoral Scholar, Stanford University (2018 - present)<small><small><br>Postdoc Advisor: Jamil Zaki<br>
+* Postdoctoral Scholar, Stanford University (2018 - present)<small><br>Postdoc Advisor: Jamil Zaki<br>
 
-* Ph.D. Psychological and Brain Sciences, Dartmouth College (2018)<small><small><br>Dissertation Advisor: Meghan Meyer<br>
-  Dissertation title: Social Closeness Modulates the Neural Representation and Perception of the Self and Others<small><small>
+* Ph.D. Psychological and Brain Sciences, Dartmouth College (2018)<small><br>Dissertation Advisor: Meghan Meyer<br>
+  Dissertation title: Social Closeness Modulates the Neural Representation and Perception of the Self and Others<small>
 
-* M.A. Psychology, Wake Forest University (2012)<small><small><br>Thesis Advisor: Janine Jennings<br>				       
-* B.A. Psychology and Spanish, Wake Forest University (2010)<small><small><br><em>Summa Cum Laude<br></em>	
+* M.A. Psychology, Wake Forest University (2012)<small><br>Thesis Advisor: Janine Jennings<br>				       
+* B.A. Psychology and Spanish, Wake Forest University (2010)<small><br><em>Summa Cum Laude<br></em>	
 
 Fellowships and Awards
 ======
@@ -47,7 +47,6 @@ Publications
 * **Courtney, A.L.**, Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts college drinking. _Journal of Studies on Alcohol and Drugs_. **Top cited 2018**.
 * **Courtney, A.L.**, Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses are Behaviorally Relevant. _Journal of Studies on Alcohol and Drugs_.
 * Powers, K.E., **Worsham, A.L.**, Freeman, J.B., Wheatley, T., Heatherton, T.F. (2014). Social connection modulates perception of animacy. _Psychological Science_.
-
 <br><em>formerly Andrea L. Worsham</em>
   
 Presentations
@@ -58,27 +57,27 @@ Presentations
 2016	“Neural markers of self-regulation and its depletion.” Talk presented at the North Carolina Cognition Conference, Wake Forest University, Winston-Salem, NC.
 
 * **Poster Presentations**
-2018	Courtney, A.L. & Meyer, M.L. (June 2018). Representational Similarity of Self and Others in Medial Prefrontal Cortex Reflects Social Closeness. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Singapore.
-2018	Courtney, A.L. & Meyer, M.L. (May 2018). Social Closeness Modulates Representational Similarity Between the Self and Others in the Medial Prefrontal Cortex. Poster presented at the Annual Meeting of the Social and Affective Neuroscience Society, Brooklyn, NY.
-2017 	Courtney, A.L., PeConga, E.K., Rapuano, K.M., Heatherton, T.F., & Kelley, W.M. (November 2017). Calorie information modulates reward and control activation in response to food images. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.
-2016	Courtney, A.L., Heatherton, T.F., Kelley, W.M. (November 2016). Self-regulatory depletion increases liking but attenuates social processing for extraverts. Poster presented at the Annual Meeting of the Society for Social Neuroscience, San Diego, CA.
-2016	Worsham Courtney, A.L., Heatherton, T.F., & Kelley, W.M. Self-regulatory depletion enhances social reward for extraverts. (January 2016). Poster presented at the Annual Convention of the Society for Personality and Social Psychology, San Diego, CA.
-2015	Worsham Courtney, A.L., Rapuano, K.M., Sargent, J.D., Kelley, W.M., & Heatherton, T.F.  Reward activation elicited by alcohol advertisements predicts real-world drinking behavior. (April 2015). Poster presented at Social and Affective Neuroscience Society Conference, Boston, MA.
-2014	Worsham, A.L., Rapuano, K.M., Kelley, W.M., Sargent, J.D., & Heatherton, T.F. Brain activation in response to alcohol advertisements predicts drinking behavior. (April 2014). Poster presented at 7th Annual Integrative Biology Symposium, Dartmouth College, Hanover, NH 
-2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. (November 2011). Cognitive Interventions and Variability in Older Adults: Relationships with Training Success and Neural Network Metrics. Poster presented at 52nd Annual Psychonomic Society Conference, Seattle, WA.
+2018	Courtney, A.L. & Meyer, M.L. (June 2018). Representational Similarity of Self and Others in Medial Prefrontal Cortex Reflects Social Closeness. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Singapore.<br><br>
+2018	Courtney, A.L. & Meyer, M.L. (May 2018). Social Closeness Modulates Representational Similarity Between the Self and Others in the Medial Prefrontal Cortex. Poster presented at the Annual Meeting of the Social and Affective Neuroscience Society, Brooklyn, NY.<br><br>
+2017 	Courtney, A.L., PeConga, E.K., Rapuano, K.M., Heatherton, T.F., & Kelley, W.M. (November 2017). Calorie information modulates reward and control activation in response to food images. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.<br><br>
+2016	Courtney, A.L., Heatherton, T.F., Kelley, W.M. (November 2016). Self-regulatory depletion increases liking but attenuates social processing for extraverts. Poster presented at the Annual Meeting of the Society for Social Neuroscience, San Diego, CA.<br><br>
+2016	Worsham Courtney, A.L., Heatherton, T.F., & Kelley, W.M. Self-regulatory depletion enhances social reward for extraverts. (January 2016). Poster presented at the Annual Convention of the Society for Personality and Social Psychology, San Diego, CA.<br><br>
+2015	Worsham Courtney, A.L., Rapuano, K.M., Sargent, J.D., Kelley, W.M., & Heatherton, T.F.  Reward activation elicited by alcohol advertisements predicts real-world drinking behavior. (April 2015). Poster presented at Social and Affective Neuroscience Society Conference, Boston, MA.<br><br>
+2014	Worsham, A.L., Rapuano, K.M., Kelley, W.M., Sargent, J.D., & Heatherton, T.F. Brain activation in response to alcohol advertisements predicts drinking behavior. (April 2014). Poster presented at 7th Annual Integrative Biology Symposium, Dartmouth College, Hanover, NH <br><br>
+2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. (November 2011). Cognitive Interventions and Variability in Older Adults: Relationships with Training Success and Neural Network Metrics. Poster presented at 52nd Annual Psychonomic Society Conference, Seattle, WA.<br><br>
 
 * **Departmental Presentations**
 
 * **Talks**
-2018	“Social closeness blurs the neural representation of the self and others”, Affective Science Seminar, Stanford University, Stanford, CA.
-2018	“Social Closeness Modulates the Neural Representation and Perception of the Self and Others”, Dissertation, Dartmouth College, Hanover, NH.
-2018	“Representational similarity of self and others in MPFC reflects social closeness” Talk presented at the Prospective Weekend Data Blitz, Dartmouth College, Hanover, NH.
-2017	“Does social connection modulate the representation of self and close others?” Talk presented at the Social Area Labs Meeting, Dartmouth College, Hanover, NH.
-2016	“Self-regulatory depletion targets cognitive control networks.” Talk presented at the Social Brain Sciences Data Blitz, Dartmouth College, Hanover, NH.
-2014	“Does social context influence the reward value of appetitive stimuli?” Talk presented at the Social and Behavioral Workshop, Dartmouth College, Hanover, NH
+2018	“Social closeness blurs the neural representation of the self and others”, Affective Science Seminar, Stanford University, Stanford, CA.<br><br>
+2018	“Social Closeness Modulates the Neural Representation and Perception of the Self and Others”, Dissertation, Dartmouth College, Hanover, NH.<br><br>
+2018	“Representational similarity of self and others in MPFC reflects social closeness” Talk presented at the Prospective Weekend Data Blitz, Dartmouth College, Hanover, NH.<br><br>
+2017	“Does social connection modulate the representation of self and close others?” Talk presented at the Social Area Labs Meeting, Dartmouth College, Hanover, NH.<br><br>
+2016	“Self-regulatory depletion targets cognitive control networks.” Talk presented at the Social Brain Sciences Data Blitz, Dartmouth College, Hanover, NH.<br><br>
+2014	“Does social context influence the reward value of appetitive stimuli?” Talk presented at the Social and Behavioral Workshop, Dartmouth College, Hanover, NH<br><br>
 
 * **Poster Presentations**
-2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. Cognitive training and cognitive variability in older adults: Preliminary behavioral and neural findings. (April 2011) Poster presented at Wake Forest Psychology Graduate Colloquium, Winston-Salem, NC.
+2011	Worsham, A.L., Jennings, J.M., & Dagenbach, D. Cognitive training and cognitive variability in older adults: Preliminary behavioral and neural findings. (April 2011) Poster presented at Wake Forest Psychology Graduate Colloquium, Winston-Salem, NC.<br><br>
 2009	Worsham, A.L., Jennings, J.M., & Dagenbach, D. The Effectiveness of Recollection Training in Decreasing Cognitive Variability in Older Adults. (August 2009). Poster presented at Wake Forest Undergraduate Research Day, Winston-Salem, NC.
 
   
@@ -113,4 +112,6 @@ Service and Leadership
 ======
 * Department Experiment and Subject Pool management and SONA administrator (2014 - 2016)
 * Departmental Representative to the Graduate Student Council (2012 - 2014)
-* Ad Hoc Reviewer: Emotion, Experimental and Clinical Psychopharmacology
+* Ad Hoc Reviewer: 
+	* Emotion
+	*Experimental and Clinical Psychopharmacology
