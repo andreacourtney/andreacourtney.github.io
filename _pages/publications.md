@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Courtney, A.L.**, Baltiansky, D., Fang, W.M., Roshanaei, M., Aybas, Y.C., Samuels, N.A., Wetchler, E., Wu, Z., Jackson, M.O., Zaki, J. (under review). Social microclimates and well-being.<br><br> 
+**Courtney, A.L.**, Baltiansky, D., Fang, W.M., Roshanaei, M., Aybas, Y.C., Samuels, N.A., Wetchler, E., Wu, Z., Jackson, M.O., Zaki, J. (under review). Social microclimates and well-being. [[Preprint]](https://osf.io/7kyax/)<br><br> 
 Fang, W.M., **Courtney, A.L.**, Jackson, M.O., Zaki, J. (under review). Low SES students report wellbeing gaps and perceive fewer social connections in college.<br><br>
 **Courtney, A.L.** & Meyer, M.L. (2020). Self-other representation in the social brain reflects social connection. Journal of Neuroscience. [[PDF]](https://github.com/andreacourtney/andreacourtney.github.io/blob/master/files/jneuro-5616.pdf)<br><br>
 **Courtney, A.L.**, Casey, B.J., Rapuano, K.M. (2020). A neurobiological model of alcohol marketing effects on underage drinking. Journal of Studies on Alcohol and Drugs. [[PDF]](https://github.com/andreacourtney/andreacourtney.github.io/blob/master/files/jsads.2020.s19.68.pdf)<br><br>
