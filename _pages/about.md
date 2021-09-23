@@ -2,6 +2,9 @@
 permalink: /
 title: "About"
 excerpt: "About"
+redirect_from: 
+  - /about/
+  - /about.html
 author_profile: true
 ---
 
