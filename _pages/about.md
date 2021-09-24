@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: "Welcome!"
 redirect_from: 
   - /about/
   - /about.html
 author_profile: true
 ---
-
-Welcome!
 
 I'm a Postdoctoral Scholar in the [Stanford Social Neuroscience Lab](http://ssnl.stanford.edu/) working with Jamil Zaki. I received my Ph.D. in Psychological and Brain Sciences from Dartmouth College in 2018, where I worked with Meghan Meyer in the [Dartmouth Social Neuroscience Lab](http://www.dartmouth-socialneurolab.com/) to understand how the brain represents the self and close others. 
 
