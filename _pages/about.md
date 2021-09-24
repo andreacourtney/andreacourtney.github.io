@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome!"
 excerpt: "Welcome!"
 redirect_from: 
   - /about/
